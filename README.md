@@ -66,44 +66,4 @@ log('Hello!')
 ( ) `undefined`
 ( ) `'undefined is not a function'`
 
-?: What does this function log?
-
-``` javascript
-function whatIsX() {
-  var x = 1
-
-  if (x) {
-    let x = 2
-    console.log(x)
-  }
-
-  console.log(x)
-}
-```
-
-(x) `2`, `1`
-( ) `2`, `2`
-( ) `undefined`, `2`
-( ) `undefined`, `1`
-( ) Nothing, it errors out.
-
-?: True or false: in the following example, `dictionary` can be reassigned.
-
-``` javascript
-const dictionary = {}
-```
-
-( ) True
-(x) False
-
-
-?: True or false: we can add a key to `dictionary` below.
-
-``` javascript
-const dictionary = {}
-```
-
-(x) True
-( ) False
-
 ???
