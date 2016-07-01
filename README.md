@@ -4,7 +4,7 @@
 
 # Functions and Variables Quiz
 
-?: What does the following function call log to console?
+?: What does the following function call log to console:
 
 ```javascript
 function log() {
@@ -15,13 +15,11 @@ function log() {
 log()
 ```
 
-Select from the following choices:
-
 ( ) `'Hello!'`
 (X) `undefined`
 ( ) `'undefined is not a function'`
 
-?: What does the following function call log to console?
+?: What does the following function call log to console:
 
 ```javascript
 log()
@@ -32,13 +30,11 @@ function log() {
 }
 ```
 
-Select from the following choices:
-
 ( ) `'Hello!'`
 (X) `undefined`
 ( ) `'undefined is not a function'`
 
-?: What does the following function call log to console?
+?: What does the following function call log to console:
 
 ```javascript
 log()
@@ -49,13 +45,11 @@ var log = function() {
 }
 ```
 
-Select from the following choices:
-
 ( ) `'Hello!'`
 ( ) `undefined`
 (X) `'undefined is not a function'`
 
-?: What does the following function log to console?
+?: What does the following function log to console:
 
 ```javascript
 function log(x) {
@@ -66,8 +60,6 @@ function log(x) {
 
 log('Hello!')
 ```
-
-Select from the following choices:
 
 ( )`'Hello!'`
 (X)`'Mr. X'`
