@@ -1,5 +1,4 @@
-Functions and Variables Quiz
----
+# Functions and Variables Quiz
 
 ???
 
@@ -7,7 +6,7 @@ Functions and Variables Quiz
 
 ?: What does the following function call log to console?
 
-``` javascript
+```javascript
 function log() {
   console.log(x)
   var x = 'Hello!'
@@ -22,7 +21,7 @@ log()
 
 ?: What does the following function call log to console?
 
-``` javascript
+```javascript
 log()
 
 function log() {
@@ -37,7 +36,7 @@ function log() {
 
 ?: What does the following function call log to console?
 
-``` javascript
+```javascript
 log()
 
 var log = function() {
@@ -53,7 +52,7 @@ var log = function() {
 
 ?: What does the following function log to console?
 
-``` javascript
+```javascript
 function log(x) {
   var x = 'Mr. X'
 
