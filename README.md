@@ -8,57 +8,57 @@
 
 ```javascript
 function log() {
-  console.log(x)
-  var x = 'Hello!'
+  console.log(x);
+  var x = 'Hello!';
 }
-log()
+log();
 ```
 
-( ) `'Hello!'`
-(X) `undefined`
-( ) `'undefined is not a function'`
+( ) 'Hello!'
+(X) undefined
+( ) 'undefined is not a function'
 
 ?: What does the following function call log to console:
 
 ```javascript
-log()
+log();
 function log() {
-  console.log(x)
-  var x = 'Hello!'
+  console.log(x);
+  var x = 'Hello!';
 }
 ```
 
-( ) `'Hello!'`
-(X) `undefined`
-( ) `'undefined is not a function'`
+( ) 'Hello!'
+(X) undefined
+( ) 'undefined is not a function'
 
 ?: What does the following function call log to console:
 
 ```javascript
-log()
+log();
 var log = function() {
-  console.log(x)
-  var x = 'Hello!'
+  console.log(x);
+  var x = 'Hello!';
 }
 ```
 
-( ) `'Hello!'`
-( ) `undefined`
-(X) `'undefined is not a function'`
+( ) 'Hello!'
+( ) undefined
+(X) 'undefined is not a function'
 
 ?: What does the following function log to console:
 
 ```javascript
 function log(x) {
-  var x = 'Mr. X'
-  console.log(x)
+  var x = 'Mr. X';
+  console.log(x);
 }
-log('Hello!')
+log('Hello!');
 ```
 
-( )`'Hello!'`
-(X)`'Mr. X'`
-( ) `undefined`
-( ) `'undefined is not a function'`
+( ) 'Hello!'
+(X) 'Mr. X'
+( ) undefined
+( ) 'undefined is not a function'
 
 ???
