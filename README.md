@@ -11,7 +11,6 @@ function log() {
   console.log(x)
   var x = 'Hello!'
 }
-
 log()
 ```
 
@@ -23,7 +22,6 @@ log()
 
 ```javascript
 log()
-
 function log() {
   console.log(x)
   var x = 'Hello!'
@@ -38,7 +36,6 @@ function log() {
 
 ```javascript
 log()
-
 var log = function() {
   console.log(x)
   var x = 'Hello!'
@@ -54,10 +51,8 @@ var log = function() {
 ```javascript
 function log(x) {
   var x = 'Mr. X'
-
   console.log(x)
 }
-
 log('Hello!')
 ```
 
