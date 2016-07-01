@@ -14,9 +14,9 @@ function log() {
 log();
 ```
 
-( ) Hello!
+( ) 'Hello!'
 (X) undefined
-( ) undefined is not a function
+( ) 'undefined is not a function'
 
 ?: What does the following function call log to console:
 
@@ -28,9 +28,9 @@ function log() {
 }
 ```
 
-( ) Hello!
+( ) 'Hello!'
 (X) undefined
-( ) undefined is not a function
+( ) 'undefined is not a function'
 
 ?: What does the following function call log to console:
 
@@ -42,9 +42,9 @@ var log = function() {
 }
 ```
 
-( ) Hello!
+( ) 'Hello!'
 ( ) undefined
-(X) undefined is not a function
+(X) 'undefined is not a function'
 
 ?: What does the following function log to console:
 
@@ -56,9 +56,9 @@ function log(x) {
 log('Hello!');
 ```
 
-( ) Hello!
-(X) Mr. X
+( ) 'Hello!'
+(X) 'Mr. X'
 ( ) undefined
-( ) undefined is not a function
+( ) 'undefined is not a function'
 
 ???
