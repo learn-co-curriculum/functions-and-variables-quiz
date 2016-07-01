@@ -3,6 +3,8 @@ Functions and Variables Quiz
 
 ???
 
+# Functions and Variables Quiz
+
 ?: What does the following function call log to console?
 
 ``` javascript
