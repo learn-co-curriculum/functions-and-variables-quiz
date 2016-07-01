@@ -1,4 +1,4 @@
-# Functions and Variables Quiz
+# Functions and Variables
 
 ???
 
@@ -16,7 +16,7 @@ log()
 ```
 
 ( ) `'Hello!'`
-(x) `undefined`
+(X) `undefined`
 ( ) `'undefined is not a function'`
 
 ?: What does the following function call log to console?
@@ -31,7 +31,7 @@ function log() {
 ```
 
 ( ) `'Hello!'`
-(x) `undefined`
+(X) `undefined`
 ( ) `'undefined is not a function'`
 
 ?: What does the following function call log to console?
@@ -47,8 +47,7 @@ var log = function() {
 
 ( ) `'Hello!'`
 ( ) `undefined`
-(x) `'undefined is not a function'`
-
+(X) `'undefined is not a function'`
 
 ?: What does the following function log to console?
 
@@ -62,8 +61,8 @@ function log(x) {
 log('Hello!')
 ```
 
-( ) `'Hello!'`
-(x) `'Mr. X'`
+( )`'Hello!'`
+(X)`'Mr. X'`
 ( ) `undefined`
 ( ) `'undefined is not a function'`
 
