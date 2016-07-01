@@ -15,6 +15,8 @@ function log() {
 log()
 ```
 
+Select from the following choices:
+
 ( ) `'Hello!'`
 (X) `undefined`
 ( ) `'undefined is not a function'`
@@ -29,6 +31,8 @@ function log() {
   var x = 'Hello!'
 }
 ```
+
+Select from the following choices:
 
 ( ) `'Hello!'`
 (X) `undefined`
@@ -45,6 +49,8 @@ var log = function() {
 }
 ```
 
+Select from the following choices:
+
 ( ) `'Hello!'`
 ( ) `undefined`
 (X) `'undefined is not a function'`
@@ -60,6 +66,8 @@ function log(x) {
 
 log('Hello!')
 ```
+
+Select from the following choices:
 
 ( )`'Hello!'`
 (X)`'Mr. X'`
