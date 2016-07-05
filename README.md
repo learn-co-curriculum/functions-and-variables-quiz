@@ -8,8 +8,8 @@
 
 ```javascript
 function log() {
-  console.log(x);
-  var x = 'Hello!';
+  console.log(greeting);
+  var greeting = 'Hello!';
 }
 log();
 ```
@@ -23,8 +23,8 @@ log();
 ```javascript
 log();
 function log() {
-  console.log(x);
-  var x = 'Hello!';
+  console.log(greeting);
+  var greeting = 'Hello!';
 }
 ```
 
@@ -37,8 +37,8 @@ function log() {
 ```javascript
 log();
 var log = function() {
-  console.log(x);
-  var x = 'Hello!';
+  console.log(greeting);
+  var greeting = 'Hello!';
 }
 ```
 
@@ -49,9 +49,9 @@ var log = function() {
 ?: What does the following function log to console:
 
 ```javascript
-function log(x) {
-  var x = 'Mr. X';
-  console.log(x);
+function log(s) {
+  var s = 'Mr. X';
+  console.log(s);
 }
 log('Hello!');
 ```
