@@ -44,7 +44,7 @@ var log = function() {
 
 ( ) 'Hello!'
 ( ) undefined
-(X) 'undefined is not a function'
+(X) 'log is not a function'
 
 ?: What does the following function log to console:
 
