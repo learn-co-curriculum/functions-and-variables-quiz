@@ -48,8 +48,8 @@ var log = function() {
 ```
 
 ( ) 'Hello!'
-( ) undefined
-(X) 'log is not a function'
+( ) greeting
+(X) undefined OR 'log is not a function'
 
 ?: What does the following function log to console:
 
