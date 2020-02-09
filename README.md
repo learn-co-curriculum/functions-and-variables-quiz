@@ -4,6 +4,11 @@
 
 # Functions and Variables Quiz
 
+Read through the code snippets carefully before answering the questions below.
+After you've read the code and corresponding question, we recommend testing your
+assumptions by running the code before answering. [Repl.it](https://repl.it/) is
+a good place to test each code snippet.
+
 ?: What does the following function call log to console:
 
 ```javascript
